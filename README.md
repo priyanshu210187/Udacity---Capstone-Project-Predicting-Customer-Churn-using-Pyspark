@@ -46,7 +46,7 @@ A)The F-1 Score is 0.836
 
 B) The accuracy is 0.812
 
-Check out my blog post by clicking this link for more detailed analysis : 
+Check out my blog post by clicking this link for more detailed analysis : https://medium.com/@pks.priyanshu/identifying-customer-churn-using-pyspark-and-machine-learning-b076dcca0c8e
 
 # Acknowledgements
 Must give credit to Udacity for this project. 
