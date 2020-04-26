@@ -41,8 +41,10 @@ We used three different Machine Learning algorithms on the dataset which are Ran
 Random FOrest outperformed the rest two algorithms. The metric we used to evaluate performance is F-1 Score as that gives us a better representation of the model performance on a small dataset as well.
 
 The final metrics for our Random Forest Classifier are as follows:
-The F-1 Score is 0.836
-The accuracy is 0.812
+
+A)The F-1 Score is 0.836
+
+B) The accuracy is 0.812
 
 Check out my blog post by clicking this link for more detailed analysis : 
 
