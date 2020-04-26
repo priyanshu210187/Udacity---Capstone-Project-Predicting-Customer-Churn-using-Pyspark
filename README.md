@@ -38,7 +38,7 @@ Capstone_Project_Sparkify.ipynb is the main notebook where end to end Model impl
 
 # Results:
 We used three different Machine Learning algorithms on the dataset which are Random Forest, Logistic Regression and Gradient Boosted Trees to train the model for customer churn respectively. We compared the performance between the three models and observed that 
-Random FOrest outperformed the rest two algorithms. The metric we used to evaluate performance is F-1 Score as that gives us a better representation of the model performance on a small dataset as well.
+Random Forest outperformed the rest two algorithms. The metric we used to evaluate performance is F-1 Score as that gives us a better representation of the model performance on a small dataset as well.
 
 The final metrics for our Random Forest Classifier are as follows:
 
